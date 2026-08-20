@@ -36,4 +36,5 @@ pnpm run dev
 
 DeepSeek 按 token 推送 SSE → Express 转发并落库 → 浏览器 `ReadableStream` 边收边渲染。
 
-更细的后端说明见 [backend/README.md](backend/README.md)。体验差距与后续可做项见 [docs/ai-chat-ui-gap-analysis.md](docs/ai-chat-ui-gap-analysis.md)。
+更细的后端说明见 [backend/README.md](backend/README.md)。  
+项目简历写法见 [docs/yang-chat-resume.md](docs/yang-chat-resume.md)；体验差距与后续可做项见 [docs/ai-chat-ui-gap-analysis.md](docs/ai-chat-ui-gap-analysis.md)。
