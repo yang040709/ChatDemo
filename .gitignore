@@ -27,3 +27,6 @@ pnpm-debug.log*
 backend/data/
 *.db
 *.db-*
+
+# Local notes / resume drafts (not published)
+docs/
